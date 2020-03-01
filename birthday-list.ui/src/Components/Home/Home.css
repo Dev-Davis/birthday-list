@@ -1,0 +1,9 @@
+.party-name {
+  font-family: 'Dancing Script' ;
+  color: skyblue;
+  font-size: 3rem;
+}
+
+.presents:hover, .guests:hover {
+  font-size: 22px;
+}
